@@ -75,7 +75,7 @@ setTimeout(function() {
 
     - Master Test Cheatsheet (C)
 
-    - Test Idea Sources Datasheet (S)
+    - Test Idea Sources Datasheet (Z)
 
     - Testing Mneumonics (E)
 
@@ -116,7 +116,7 @@ setTimeout(function() {
         console.log("Test Cheatsheet - MoT!");
         await TestHeuristics(aui);
         break;
-      case "s":
+      case "Z":
         console.log("Common Sources of Test Ideas!");
         await TestIdeaCommonSources(aui);
         break;
